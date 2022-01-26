@@ -2,6 +2,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\gson-2.8.6.jar",
-        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\lombok-1.18.12.jar"
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\lombok-1.18.12.jar",
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\json-20180813.jar",
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\json-smart-2.4.7.jar",
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\javax.annotation-api-1.3.2.jar"
     ]
 }
