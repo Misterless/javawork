@@ -18,7 +18,7 @@ public class DownloadWeather {
 
         try {
             URL url = new URL(
-                    "http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=6agEwgjqMkXU2ZbxYZKsgzGH8HlS3rbvXIamE0A42URCsY66k%2Bk65Ds%2BnBSHqSJ0c9LrgXOMr9h%2FqlFdHneIcw%3D%3D&pageNo=1&numOfRows=1000&dataType=JSON&base_date="
+                    "http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=키값은비밀&pageNo=1&numOfRows=1000&dataType=JSON&base_date="
                             + baseDate + "&base_time=" + baseTime + "&nx=97&ny=75&type=json");
 
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
