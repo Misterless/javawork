@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\gson-2.8.6.jar",
+        "c:\\GREEN_WORK\\JAVA-STUDY\\lib\\lombok-1.18.12.jar"
+    ]
+}
