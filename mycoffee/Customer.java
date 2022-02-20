@@ -35,7 +35,7 @@ class 홍길동 extends Customer {
 
             Coffee coffee = barista.MakeCoffee(menuItem);
 
-            System.out.println(name + "은 " + coffee.getPrice() + "원 금액의" + coffee.getName() + "를 받았습니다.");
+            System.out.println(name + "은 " + coffee.getPrice() + "원 금액의  " + coffee.getName() + "를 받았습니다.");
 
         }
     }
